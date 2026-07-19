@@ -264,7 +264,7 @@ Early sessions focused on integrating the Gemini API and comparing raw vs. struc
 
 </div>
 
-<img src="https://raw.githubusercontent.com/sajidhaid3r/sajidhaid3r/main/github-calendar.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/sajidhaid3r/sajidhaid3r/main/github-habits.svg" width="100%"/>
 
 </div>
 
