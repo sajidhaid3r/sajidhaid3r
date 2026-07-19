@@ -310,7 +310,7 @@ open_to:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-%5BFILL%20IN%20EMAIL%5D-4c1d95?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-sajidhaid3r%40gmail.com-5b21b6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajidhaid3r@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sajid-haider-20869631a)
 [![GitHub](https://img.shields.io/badge/GitHub-sajidhaid3r-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sajidhaid3r)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%5BFILL%20IN%20URL%5D-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](#)
