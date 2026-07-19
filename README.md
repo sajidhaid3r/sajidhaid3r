@@ -245,7 +245,7 @@ Early sessions focused on integrating the Gemini API and comparing raw vs. struc
 
 <div align="center">
 
-<img src="[https://github-profile-trophy-three-inky.vercel.app/?username=sajidhaid3r&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1](https://github-profile-trophy-three-inky.vercel.app/?username=sajidhaid3r&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1)" />
+<img src="<img src="https://github-profile-trophy-three-inky.vercel.app/?username=sajidhaid3r&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" />" />
 </div>
 
 <br/>
