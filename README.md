@@ -109,7 +109,7 @@ A full-stack platform that turns plastic waste into a circular economy: househol
 | **Performance** | Instant wallet updates via `postgres_changes` realtime subscriptions — no page refresh on credit/wallet changes |
 | **Security** | Atomic QR-verified pickup handshake via Postgres RPC functions (`accept_pickup`, `complete_pickup_transaction`, token-based verification) |
 | **Impact** | Live collection heatmaps, CO₂/impact tracking, carbon credit marketplace, community cleanup challenges |
-| **Repository** | `[FILL IN REPO LINK]` |
+| **Repository** | [github.com/sajidhaid3r/Green-Loop](https://github.com/sajidhaid3r/Green-Loop) |
 
 Green Loop's core engineering challenge was making a two-sided, trust-sensitive handoff (household ↔ collector) both **atomic** and **instant** — solved with a QR-scan-triggered Postgres RPC transaction that updates both wallets in a single call, paired with an in-process event bus so UI state (profile tabs, dashboards, live counters) reacts without polling.
 
