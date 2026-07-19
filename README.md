@@ -130,7 +130,7 @@ An edge-deployed, TypeScript-first platform built around one core idea: **AI inf
 | **Performance** | Requests served from the datacenter closest to the user; edge-first architecture eliminates traditional server latency |
 | **Security** | Secrets-driven provider configuration (Wrangler-managed), no hardcoded credentials, strict TypeScript throughout |
 | **Impact** | Provider-agnostic failover — primary (AMD MI300X / Llama 3.3 70B via vLLM) to fallback (Groq Cloud) with zero application-code changes |
-| **Repository** | `[FILL IN REPO LINK]` |
+| **Repository** | [github.com/sajidhaid3r/Zero-Gap-AI](https://github.com/sajidhaid3r/Zero-Gap-AI) |
 
 The defining architectural decision is a **thin, swappable inference abstraction**: both providers speak the OpenAI-compatible chat completions API, so routing logic — not provider-specific glue code — is the actual product surface.
 
