@@ -230,11 +230,11 @@ Early sessions focused on integrating the Gemini API and comparing raw vs. struc
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sajidhaid3r&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=7c3aed&text_color=e9d5ff" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sajidhaid3r&theme=radical&hide_border=true&background=0d0221&stroke=7c3aed&ring=a78bfa&fire=8b5cf6&currStreakLabel=e9d5ff" width="49%"/>
+<img src="https://raw.githubusercontent.com/sajidhaid3r/sajidhaid3r/main/github-metrics.svg" width="90%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidhaid3r&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=e9d5ff" width="49%"/>
+<br/>
 
+<img src="https://streak-stats.demolab.com?user=sajidhaid3r&theme=radical&hide_border=true&background=0d0221&stroke=7c3aed&ring=a78bfa&fire=8b5cf6&currStreakLabel=e9d5ff" width="49%"/>
 </div>
 
 <br/>
