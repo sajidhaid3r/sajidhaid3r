@@ -7,7 +7,7 @@
 <br/>
 
 [![Bachelor's in Computer Science](https://img.shields.io/badge/B.E.-Computer%20Science-7c3aed?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
-[![Location](https://img.shields.io/badge/Location-%5BFILL%20IN%20CITY%2C%20COUNTRY%5D-4c1d95?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Location-Bengaluru%2C%20India-4c1d95?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Bengaluru,+Karnataka,+India)
 
 <br/>
 
