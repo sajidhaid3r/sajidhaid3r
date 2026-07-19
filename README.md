@@ -254,15 +254,17 @@ Early sessions focused on integrating the Gemini API and comparing raw vs. struc
 
 ## 🟣 Contribution Activity
 
+## 🟣 Contribution Activity
+
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajidhaid3r&theme=react-dark&hide_border=true&bg_color=0d0221&color=a78bfa&line=7c3aed&point=e9d5ff" width="100%"/>
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/sajidhaid3r/sajidhaid3r/main/github-calendar.svg" width="100%"/>
 
-</div>
+<br/>
 
 <img src="https://raw.githubusercontent.com/sajidhaid3r/sajidhaid3r/main/github-habits.svg" width="100%"/>
 
