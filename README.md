@@ -118,27 +118,6 @@ Green Loop's core engineering challenge was making a two-sided, trust-sensitive 
 <br/>
 
 <details open>
-<summary><b>⚡ Zero-Gap-AI — Resilient, Edge-Native AI Inference Platform</b></summary>
-<br/>
-
-An edge-deployed, TypeScript-first platform built around one core idea: **AI inference should never go down.** Chat/completion requests route through a self-hosted primary inference cluster and transparently fail over to a cloud provider the moment the primary path degrades — closing the gap between a provider outage and a broken user experience.
-
-| Category | Details |
-|---|---|
-| **Stack** | React 19 · TanStack Start · TanStack Router/Query · Cloudflare Workers · Supabase · Tailwind CSS 4 · shadcn/ui · Zod · React Hook Form |
-| **Scale** | Global edge deployment on Cloudflare Workers with near-zero cold starts |
-| **Performance** | Requests served from the datacenter closest to the user; edge-first architecture eliminates traditional server latency |
-| **Security** | Secrets-driven provider configuration (Wrangler-managed), no hardcoded credentials, strict TypeScript throughout |
-| **Impact** | Provider-agnostic failover — primary (AMD MI300X / Llama 3.3 70B via vLLM) to fallback (Groq Cloud) with zero application-code changes |
-| **Repository** | [github.com/sajidhaid3r/Zero-Gap-AI](https://github.com/sajidhaid3r/Zero-Gap-AI) |
-
-The defining architectural decision is a **thin, swappable inference abstraction**: both providers speak the OpenAI-compatible chat completions API, so routing logic — not provider-specific glue code — is the actual product surface.
-
-</details>
-
-<br/>
-
-<details open>
 <summary><b>🐍 HUSTLE — Applied AI/ML Internship Learning Log</b></summary>
 <br/>
 
